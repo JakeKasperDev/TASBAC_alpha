@@ -1,0 +1,82 @@
+============================================================
+           LICENSE / ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ
+============================================================
+
+[РУС] РАЗДЕЛ 1: СОБСТВЕННОСТЬ И КОД (Все права защищены);
+© 2026 [JakeKasperDev]. Все права защищены.
+
+Исходный код, ассеты и персонажи являются моей интеллектуальной собственностью.
+Пожалуйста, не копируйте, не перепродавайте и не распространяйте игру в коммерческих целях. 
+
+Давайте уважать чужой труд.
+
+------------------------------------------------------------
+
+[ENG] SECTION 1: OWNERSHIP & CODE (All Rights Reserved);
+© 2026 [JakeKasperDev]. All Rights Reserved.
+
+The source code, assets, and characters are my intellectual property. 
+Please do not copy, resell, or redistribute the game for commercial purposes. 
+
+Let's respect each other's work.
+
+------------------------------------------------------------
+
+[РУС] РАЗДЕЛ 2: СВОБОДА ТВОРЧЕСТВА (Делайте то, что нравится!);
+
+Я верю в силу сообщества. 
+
+В отношении фанатского контента:
+
+Я ТОЛЬКО ЗА:
+- Создание бесплатных модов и дополнений.
+
+- Рисование фан-артов и любой мерч для личного пользования.
+
+- Стримы, обзоры и летсплеи (Монетизация полностью разрешена!).
+
+ЕДИНСТВЕННОЕ ПРАВИЛО:
+- Не выдавайте мою игру за свою. В остальном — творите без границ!
+
+[ENG] SECTION 2: COMMUNITY FREEDOM (Do What You Love!);
+I believe in the power of community. 
+
+Regarding your fan work:
+
+DEEPLY ENCOURAGED:
+- Creating free mods and expansions.
+
+- Making fan art and any merchandise for personal use.
+
+- Streaming, let's-plays, and reviews (Monetization is 100% OK!).
+
+JUST ONE RULE: 
+
+- Do not pass my game off as your own. Other than that — create without limits!
+
+------------------------------------------------------------
+
+[РУС] РАЗДЕЛ 3: ВДОХНОВЕНИЕ И ИНСТРУМЕНТЫ;
+
+Создано на Godot Engine (Лицензия MIT). 
+
+Спасибо разработчикам!
+
+ИДЕИ И ВДОХНОВЕНИЕ;
+
+Искренняя благодарность Google, DeepSeek, Алисе и другим открытым нейросетям. 
+Они стали моими напарниками в поиске идей и вдохновения.
+
+[ENG] SECTION 3: INSPIRATION & TOOLSENGINE: 
+Built with Godot Engine (MIT License).
+Thanks to the developers!;
+
+IDEAS & INSPIRATION;
+Heartfelt gratitude to Google, DeepSeek, Alisa, and other open-source AI models.
+
+They became my partners in searching for ideas and inspiration.
+
+============================================================
+      THANK YOU FOR PLAYING / СПАСИБО, ЧТО ИГРАЕТЕ!
+============================================================
+
