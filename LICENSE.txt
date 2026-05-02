@@ -26,17 +26,20 @@ Let's respect each other's work.
 
 Я верю в силу сообщества. 
 
-В отношении фанатского контента:
+В отношении фанатского контента,
 
 Я ТОЛЬКО ЗА:
-- Создание бесплатных модов и дополнений.
 
-- Рисование фан-артов и любой мерч для личного пользования.
+- Создание бесплатных Модов и Дополнений.
 
-- Стримы, обзоры и летсплеи (Монетизация полностью разрешена!).
+- Стримы, Обзоры, Летсплей. (Монетизация полностью разрешена!).
 
 ЕДИНСТВЕННОЕ ПРАВИЛО:
-- Не выдавайте мою игру за свою. В остальном — творите без границ!
+
+Не выдавайте мою игру за свою. 
+
+В остальном — творите без границ!
+
 
 [ENG] SECTION 2: COMMUNITY FREEDOM (Do What You Love!);
 I believe in the power of community. 
@@ -44,11 +47,12 @@ I believe in the power of community.
 Regarding your fan work:
 
 DEEPLY ENCOURAGED:
+
 - Creating free mods and expansions.
 
 - Making fan art and any merchandise for personal use.
 
-- Streaming, let's-plays, and reviews (Monetization is 100% OK!).
+- Streaming, let's-plays, and reviews. (Monetization is 100% OK!).
 
 JUST ONE RULE: 
 
@@ -56,25 +60,11 @@ JUST ONE RULE:
 
 ------------------------------------------------------------
 
-[РУС] РАЗДЕЛ 3: ВДОХНОВЕНИЕ И ИНСТРУМЕНТЫ;
-
 Создано на Godot Engine (Лицензия MIT). 
-
 Спасибо разработчикам!
 
-ИДЕИ И ВДОХНОВЕНИЕ;
-
-Искренняя благодарность Google, DeepSeek, Алисе и другим открытым нейросетям. 
-Они стали моими напарниками в поиске идей и вдохновения.
-
-[ENG] SECTION 3: INSPIRATION & TOOLSENGINE: 
 Built with Godot Engine (MIT License).
 Thanks to the developers!;
-
-IDEAS & INSPIRATION;
-Heartfelt gratitude to Google, DeepSeek, Alisa, and other open-source AI models.
-
-They became my partners in searching for ideas and inspiration.
 
 ============================================================
       THANK YOU FOR PLAYING / СПАСИБО, ЧТО ИГРАЕТЕ!
