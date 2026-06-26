@@ -1,76 +1,13 @@
-============================================================
-           LICENSE / ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ
+======================================================================;
+© 2026 [JakeKasperDev]. All rights reserved. / Все права защищены.
 
-[РУС] РАЗДЕЛ 1: СОБСТВЕННОСТЬ И КОД (ВСЕ ПРАВА ЗАЩИЩЕНЫ);
+[РУС] Данное программное обеспечение является коммерческой тайной 
+и собственностью автора. Копирование, распространение, изменение 
+или использование кода без письменного согласия правообладателя 
+категорически запрещено.
 
-© 2026 [JakeKasperDev]. Все права защищены.
+[ENG] This software is proprietary. No part of this software may be 
+reproduced, distributed, or transmitted in any form or by any means 
+without the prior written permission of the copyright owner.
 
-Исходный код, ассеты и персонажи являются моей интеллектуальной собственностью.
-Пожалуйста, не копируйте, не перепродавайте и не распространяйте игру в коммерческих целях. 
-
-Давайте уважать чужой труд.
-
-------------------------------------------------------------
-
-[ENG] SECTION 1: OWNERSHIP & CODE (All Rights Reserved);
-
-© 2026 [JakeKasperDev]. All Rights Reserved.
-
-The source code, assets, and characters are my intellectual property. 
-Please do not copy, resell, or redistribute the game for commercial purposes. 
-
-Let's respect each other's work.
-
-------------------------------------------------------------
-
-[РУС] РАЗДЕЛ 2: СВОБОДА ТВОРЧЕСТВА (Делайте то, что нравится!);
-
-Я верю в силу сообщества. 
-
-В отношении фанатского контента,
-
-Я ТОЛЬКО ЗА:
-
-- Создание бесплатных Модов и Дополнений.
-
-- Стримы, Обзоры, Летсплей. (Монетизация полностью разрешена!).
-
-ЕДИНСТВЕННОЕ ПРАВИЛО:
-
-Не выдавайте мою игру за свою. 
-В остальном — творите без границ!
-
-------------------------------------------------------------
-
-[ENG] SECTION 2: COMMUNITY FREEDOM (Do What You Love!);
-
-I believe in the power of community. 
-
-Regarding your fan work:
-
-DEEPLY ENCOURAGED:
-
-- Creating free mods and expansions.
-
-- Making fan art and any merchandise for personal use.
-
-- Streaming, let's-plays, and reviews. (Monetization is 100% OK!).
-
-JUST ONE RULE: 
-
-- Do not pass my game off as your own. Other than that — create without limits!
-
-------------------------------------------------------------
-
-Создано на Godot Engine (Лицензия MIT). 
-
-Спасибо разработчикам!
-
-------------------------------------------------------------
-
-Built with Godot Engine (MIT License).
-
-Thanks to the developers!;
-
-      THANK YOU FOR PLAYING / СПАСИБО, ЧТО ИГРАЕТЕ!
-============================================================
+======================================================================;
